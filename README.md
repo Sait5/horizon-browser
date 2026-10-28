@@ -10,7 +10,7 @@
 | Устройство | Скачать |
 |---|---|
 | 🪟 **Windows** 10 / 11 (64-бит) | 👉 **[Horizon-Setup-1.0.1.exe](https://github.com/Sait5/horizon-browser/releases/latest/download/Horizon-Setup-1.0.1.exe)** |
-| 🍎 **Mac** (Intel и Apple M1–M4, macOS 12 и новее) | 👉 **[Horizon-1.0.0-mac.dmg](https://github.com/Sait5/horizon-browser/releases/download/v1.0.0/Horizon-1.0.0-mac.dmg)** |
+| 🍎 **Mac** (Intel и Apple M1–M4, macOS 12 и новее) | 👉 **[Horizon-1.0.1-mac.dmg](https://github.com/Sait5/horizon-browser/releases/latest/download/Horizon-1.0.1-mac.dmg)** |
 | 📱 **iPhone и Android** | 👉 **https://horizon-web-lovat.vercel.app** — [как добавить на экран «Домой»](#horizon-для-телефона-iphone-и-android) |
 
 Все файлы — в разделе [Releases](https://github.com/Sait5/horizon-browser/releases) справа.
@@ -54,7 +54,7 @@
 
 ## Как установить на Mac
 
-1. Скачайте `Horizon-1.0.0-mac.dmg` и откройте его.
+1. Скачайте `Horizon-1.0.1-mac.dmg` и откройте его.
 2. Перетащите значок **Horizon** в папку **«Программы»**.
 3. Откройте Horizon. macOS скажет, что не может проверить разработчика, — так бывает с программами без платной подписи Apple. Нажмите **«Готово»**.
 4. Откройте **«Системные настройки» → «Конфиденциальность и безопасность»**, прокрутите вниз и нажмите **«Всё равно открыть»** рядом с Horizon, затем подтвердите паролем или Touch ID.
