@@ -9,8 +9,8 @@
 
 | Устройство | Скачать |
 |---|---|
-| 🪟 **Windows** 10 / 11 (64-бит) | 👉 **[Horizon-Setup-1.0.0.exe](https://github.com/Sait5/horizon-browser/releases/latest/download/Horizon-Setup-1.0.0.exe)** |
-| 🍎 **Mac** (Intel и Apple M1–M4, macOS 12 и новее) | 👉 **[Horizon-1.0.0-mac.dmg](https://github.com/Sait5/horizon-browser/releases/latest/download/Horizon-1.0.0-mac.dmg)** |
+| 🪟 **Windows** 10 / 11 (64-бит) | 👉 **[Horizon-Setup-1.0.1.exe](https://github.com/Sait5/horizon-browser/releases/latest/download/Horizon-Setup-1.0.1.exe)** |
+| 🍎 **Mac** (Intel и Apple M1–M4, macOS 12 и новее) | 👉 **[Horizon-1.0.0-mac.dmg](https://github.com/Sait5/horizon-browser/releases/download/v1.0.0/Horizon-1.0.0-mac.dmg)** |
 | 📱 **iPhone и Android** | 👉 **https://horizon-web-lovat.vercel.app** — [как добавить на экран «Домой»](#horizon-для-телефона-iphone-и-android) |
 
 Все файлы — в разделе [Releases](https://github.com/Sait5/horizon-browser/releases) справа.
@@ -43,7 +43,7 @@
 
 ## Как установить на Windows
 
-1. Запустите скачанный файл `Horizon-Setup-1.0.0.exe`.
+1. Запустите скачанный файл `Horizon-Setup-1.0.1.exe`.
 2. Windows может показать синее окно **«Система Windows защитила ваш компьютер»** — так бывает со всеми новыми программами без платной цифровой подписи.
    Нажмите **«Подробнее» → «Выполнить в любом случае»**.
 3. Установщик спросит подтверждение и папку — нажмите **«Далее»** и **«Установить»**.
